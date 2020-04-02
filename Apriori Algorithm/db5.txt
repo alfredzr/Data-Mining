@@ -1,0 +1,20 @@
+1001, diapers, tissues, noodles, cereals, books, pen, batteries
+1002, diapers, sweaters, belts, water, noodles, cereals, books, pen, batteries
+1003, sweaters, tissues, water, noodles, cereals, batteries
+1004, diapers, sweaters, tissues, cereals
+1005, sweaters, tissues, belts, water, noodles, pen
+1006, belts, water, noodles, cereals, books, pen, batteries
+1007, diapers, sweaters, tissues, water, cereals, pen, 
+1008, sweaters, tissues, belts, water, noodles, cereals, books, batteries
+1009, diapers, tissues, water, cereals, books, pen, batteries
+1010, diapers, tissues, belts, water, noodles, cereals, books, pen, batteries
+1011, diapers, sweaters, tissues, water, books, pen, batteries
+1012, sweaters, tissues, belts, noodles, books, batteries
+1013, diapers, sweaters, books, pen, batteries
+1014, diapers, belts, noodles, cereals
+1015, diapers, sweaters, belts, water, noodles, cereals, books, pen
+1016, sweaters, tissues, belts, water, noodles, cereals
+1017, diapers, sweaters, tissues, belts, water, pen 
+1018, sweaters, tissues, water, cereals, pen, batteries
+1019, sweaters, belts, water, noodles, cereals, pen, batteries
+1010, sweaters, water, cereals
